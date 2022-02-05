@@ -1,0 +1,4 @@
+mat-toolbar.mat-toolbar.mat-toolbar-single-row {
+    -webkit-app-region: drag;
+    padding-top: 30px !important;
+}
