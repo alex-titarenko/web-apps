@@ -1,0 +1,4 @@
+.MuiToolbar-root {
+    -webkit-app-region: drag;
+    padding-top: 20px;
+}

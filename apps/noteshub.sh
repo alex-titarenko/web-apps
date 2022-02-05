@@ -4,4 +4,6 @@ url="https://www.noteshub.app"
 
 npx nativefier "$url" \
     --name "$name" \
-    --icon "icons/$icon"
+    --icon "icons/$icon" \
+    --title-bar-style 'hidden' \
+    --inject 'styles/noteshub.css'
